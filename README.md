@@ -25,17 +25,17 @@ This project focuses on predicting **customer churn** using machine learning. By
 
 ## 👨‍💻 Author
 
-Hi! I'm **Ambigathi**, a fresher data scientist with experience in **machine learning**, **API development**, and **model deployment**. I'm passionate about creating solutions that have real-world impact.
+Hi! I'm **Vivek**, a fresher data scientist with experience in **machine learning**, **API development**, and **model deployment**. I'm passionate about creating solutions that have real-world impact.
 
-- **LinkedIn**: [linkedin.com/in/ambigathi](https://www.linkedin.com/in/ambigathi)
-- **GitHub**: [github.com/Ambigapathi-V](https://github.com/Ambigapathi-V)
+- **LinkedIn**: [linkedin.com/in/ambigathi](https://www.linkedin.com/in/vivek-jori-11s/)
+- **GitHub**: [github.com/Ambigapathi-V](https://github.com/vivjori115)
 
 ---
 
 ## 🚀 Demo
 
 Check out the live demo of the **Streamlit app** for real-time predictions:  
-[Live Demo Link](https://churnguard.streamlit.app/)
+[Live Demo Link](https://churn-prediction-ann-xkhkixxuxgzu9gkdprgt8w.streamlit.app/)
 
 ---
 
@@ -56,7 +56,7 @@ These results were achieved after testing and optimizing multiple models, with *
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ambigapathi-V/Churn-Prediction-ANN.git
+    git clone https://github.com/vivjori115/Churn-Prediction-ANN
     ```
 2. Install dependencies:
     ```bash
@@ -129,7 +129,7 @@ Contributions are welcome! To contribute:
 To run this project locally:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ambigapathi-V/customer-churn-prediction.git
+    git clone https://github.com/vivjori115/Churn-Prediction-ANN
     ```
 2. Start the FastAPI server:
     ```bash
@@ -152,10 +152,7 @@ This project can be used by:
 
 ## 💬 Feedback
 
-If you have any feedback, feel free to reach out via [feedback](mailto:ambigapathikavin2@gmail.com).
+If you have any feedback, feel free to reach out via [feedback](mailto:viv.jori1@gmail.com).
 
----
 
-## 🌟 Support
 
-For support, please contact [support](mailto:ambigapathikavin2@gmail.com).
